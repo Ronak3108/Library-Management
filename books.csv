@@ -1,0 +1,12 @@
+bookid,title,author,publisher,edition,cost,category
+1,harry potter and the philosher's stone,JK Rowling,Bloomsbury Publishers,1,275.0,Fantasy Fiction
+2,harry potter and the chamber of secrets,JK Rowling,Bloomsbury Publishers,2,350.0,Fantasy Fiction
+4,percy jackson and the lightening theif,Rick Riordan,Miramax Publishers,1,265.0,Fantasy Fiction
+5,percy jackson and the titan's curse,Rick Riordan,Miramax Publishers,2,300.0,Fantasy Fiction
+6,the hound of the baskervilles,Arthur Conan Doyle,George Newnes,1,149.99,Thriller
+7,the girl with the dragon tattoo,Stieg Larsson,Alfred A. Knopf,1,499.99,Thriller
+8,the silent patient,Alex Michaelides,Minotaur Books,1,349.99,Thriller
+9,the girl on the train,Pauela Hawkins,HarperCollins,1,379.99,Thriller
+10,big little lies,Liane Moriarty,Flatiron Books,1,329.99,Thriller
+11,sharp objects,Gillian Flynn,Shaye Areheart Books,1,399.99,Thriller
+12,the woman in the window,A.J. Finn,William Morrow,1,420.0,Thriller
